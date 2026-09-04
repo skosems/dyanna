@@ -1,0 +1,17 @@
+[
+  {
+    "id": "seed1",
+    "nom": "Nuta",
+    "prenom": "Kwullem",
+    "naissance": "12.04.1996",
+    "lieu": "Birnin Zana",
+    "sexe": "M",
+    "clan": "FRN",
+    "ville": "Birnin Zana",
+    "metier": "Agent de liaison",
+    "sang": "O+",
+    "taille": "186",
+    "photo": null,
+    "nin": "WK-FRN-LN96-4721-K"
+  }
+]
